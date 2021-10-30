@@ -1,0 +1,15 @@
+<form (submit)="saveChanges()" [formGroup] = "form">
+    <mat-form-field appearance="outline">
+        <mat-label>Name*</mat-label>
+        <input formControlName="name" matInput>
+        <mat-error *ngIf = "form.invalid">{{getErrorMessageFieldName()}}</mat-error>
+    </mat-form-field>
+
+    <h4>Select location of the Theater</h4>
+    <app-map [initialCoordinatess]="initialCoordinatess" (onSelectedLocation)="onSelectedLocation($event)"></app-map>
+
+    <div>
+        <button mat-flat-button [disabled] = "form.invalid">Save Changes</button>
+        <a mat-stroked-button routerLink="/movietheaters">Cancel</a>
+    </div>
+</form>

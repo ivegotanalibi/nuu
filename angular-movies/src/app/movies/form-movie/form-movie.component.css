@@ -1,0 +1,16 @@
+form{
+    max-width: 500px;
+}
+
+mat-form-field{
+    width: 100%;
+}
+
+button{
+    margin-right: 1em;
+    background-color: darkgoldenrod;
+    color: white;
+}
+.checkbox-container{
+    margin-bottom: 1rem;
+}
