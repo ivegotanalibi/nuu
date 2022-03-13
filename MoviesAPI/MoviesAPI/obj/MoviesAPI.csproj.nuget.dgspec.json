@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USA\\Desktop\\Angularmovies\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj": {}
+    "C:\\Users\\anifowose.damilola\\Desktop\\New folder\\nuu\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USA\\Desktop\\Angularmovies\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj": {
+    "C:\\Users\\anifowose.damilola\\Desktop\\New folder\\nuu\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USA\\Desktop\\Angularmovies\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\anifowose.damilola\\Desktop\\New folder\\nuu\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
         "projectName": "MoviesAPI",
-        "projectPath": "C:\\Users\\USA\\Desktop\\Angularmovies\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
-        "packagesPath": "C:\\Users\\USA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USA\\Desktop\\Angularmovies\\MoviesAPI\\MoviesAPI\\obj\\",
+        "projectPath": "C:\\Users\\anifowose.damilola\\Desktop\\New folder\\nuu\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
+        "packagesPath": "C:\\Users\\anifowose.damilola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anifowose.damilola\\Desktop\\New folder\\nuu\\MoviesAPI\\MoviesAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anifowose.damilola\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
